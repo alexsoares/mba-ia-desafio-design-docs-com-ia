@@ -9,3 +9,8 @@ coverage/
 .idea/
 .vscode/
 *.tsbuildinfo
+
+# Claude Code (arquivos locais do assistente, nao versionar)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
